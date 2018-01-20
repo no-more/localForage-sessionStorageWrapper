@@ -2,8 +2,8 @@
     'use strict';
 
     // Promises!
-    var Promise = (typeof module !== 'undefined' && module.exports) ?
-                  require('promise') : this.Promise;
+//     var Promise = (typeof module !== 'undefined' && module.exports) ?
+//                   require('promise') : this.Promise;
 
     var globalObject = this;
     var serializer = null;
